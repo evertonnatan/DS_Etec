@@ -1,0 +1,4 @@
+salliq = 100
+salliq2 = 100,00
+
+salliq == salliq2
