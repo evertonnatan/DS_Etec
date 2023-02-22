@@ -3,3 +3,4 @@ public class PrimeiroPrograma {
         System.out.println("Hello World!");
     }
 }
+//Um programa em Java é organizado em sentenças de código, terminadas com ";"
